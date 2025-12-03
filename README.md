@@ -1,7 +1,7 @@
 # Pass Partout - le Challenge des mots de passes
 
 > [!IMPORTANT]
-> L'bjectif de l'atelier à posteriori est de sensibiliser les lycéens à la création de mots de passe robustes et aux risques liés à l'utilisation d'informations personnelles. L'activité se présente sous forme
+> L'objectif de l'atelier à posteriori est de sensibiliser les lycéens à la création de mots de passe robustes et aux risques liés à l'utilisation d'informations personnelles. L'activité se présente sous forme
 > d'un jeu chronométré, par équipes, où les participants doivent deviner des mots de passe inspirés d'un faux profil : **Micheline Delacroix**.
 
 ---
