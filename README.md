@@ -33,8 +33,9 @@
 * Les niveaux 4 et 5 introduisent des caractères spéciaux et des mélanges plus complexes
 
 ---
+# 🧩 Les différents niveaux et difficultés
 
-# 🧩 Niveau 1 – **Facile**
+## 🧩 Niveau 1 – **Facile**
 
 ⭐ **2 points pour le niveau - 4 chiffres**
 
@@ -45,9 +46,8 @@
 * **mdp3 :** `0350` — *Mois + deux derniers chiffres de l'année*
 * **mdp4 :** `2004` - *Année naissance de Nathalie*
 
---------------------------------------------------------------------
 
-# 🧩 Niveau 2 – **Intermédiaire**
+## 🧩 Niveau 2 – **Intermédiaire**
 
 ⭐ **2 points pour le niveau - 4 lettres + 2 chiffres**
 
@@ -56,9 +56,8 @@
 * **mdp3 :** `mich50` — *Son prénom + deux chiffres de naissance*
 * **mdp4 :** `pyth03` - *Son animal préféré + mois de naissance*
 
---------------------------------------------------------------------
 
-# 🧩 Niveau 3 – **Difficile** - 6 caractères (lettres + chiffres)
+## 🧩 Niveau 3 – **Difficile** - 6 caractères (lettres + chiffres)
 
 ⭐ **1 point pour le niveau**
 
@@ -67,9 +66,8 @@
 * **mdp3 :** `vente50` — *Son métier d'avant + année*
 * **mdp4 :** `woip79`- *Ville + année de naissance d'un des enfants*
 
---------------------------------------------------------------------
 
-# 🧩 Niveau 4 – **Difficile** - 6 caractères (lettres + chiffres + symboles)
+## 🧩 Niveau 4 – **Difficile** - 6 caractères (lettres + chiffres + symboles)
 
 ⭐ **1 point pour le niveau**
 
@@ -78,9 +76,8 @@
 * **mdp3 :** `lid@50` — *Travail + symbole + année*
 * **mdp4 :** `py@03!` - *Animal + @ + mois + !*
 
---------------------------------------------------------------------
 
-# 🧩 Niveau 5 – **Difficile** - 8 caractères (lettres + chiffres + symboles)
+## 🧩 Niveau 5 – **Difficile** - 8 caractères (lettres + chiffres + symboles)
 
 ⭐ **1 point pour le niveau**
 
